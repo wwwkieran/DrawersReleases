@@ -1,22 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>DrawersDock Updates</title>
     <link>https://DrawersReleases.github.io/appcast.xml</link>
     <description>Most recent updates to DrawersDock</description>
     <language>en</language>
     <item>
+      <title>Version 0.0.2</title>
+      <pubDate>Sat, 11 Apr 2026 15:03:39 +0000</pubDate>
+      <sparkle:version>0.0.2</sparkle:version>
+      <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <enclosure url="https://wwwkieran.github.io/DrawersReleases/DrawersDock.dmg" length="12117443" type="application/octet-stream" sparkle:edSignature="8Eu4v97oEaE21iuhP1D9clpz5809kHCErECWcs9sYl8VyWGmwZeaAVVP2kRZx2b8t3IhQ28EKKep2Z700ttIAw==" />
+    </item>
+  <item>
       <title>Version 0.0.1</title>
       <pubDate>Thu, 09 Apr 2026 00:03:22 +0000</pubDate>
       <sparkle:version>0.0.1</sparkle:version>
       <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://wwwkieran.github.io/DrawersReleases/DrawersDock.dmg"
-        length="12143689"
-        type="application/octet-stream"
-        sparkle:edSignature="pVuG30+SGHXgS5MYX+rRrTGyC6jPpJZ7lTrOx/j4443EbSJxMEcPJVWFBJA3l6b6REQ1HKDvbFwrATU0YLQLBg=="
-      />
+      <enclosure url="https://wwwkieran.github.io/DrawersReleases/DrawersDock.dmg" length="12143689" type="application/octet-stream" sparkle:edSignature="pVuG30+SGHXgS5MYX+rRrTGyC6jPpJZ7lTrOx/j4443EbSJxMEcPJVWFBJA3l6b6REQ1HKDvbFwrATU0YLQLBg==" />
     </item>
   </channel>
 </rss>
