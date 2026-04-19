@@ -6,6 +6,14 @@
     <description>Most recent updates to DrawersDock</description>
     <language>en</language>
     <item>
+      <title>Version 0.0.8</title>
+      <pubDate>Sun, 19 Apr 2026 17:46:14 +0000</pubDate>
+      <sparkle:version>0.0.8</sparkle:version>
+      <sparkle:shortVersionString>0.0.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <enclosure url="https://wwwkieran.github.io/DrawersReleases/Drawers.dmg" length="14733134" type="application/octet-stream" sparkle:edSignature="mUHwi+1x2WwdMxdJVuZByLB++pv+6vbAUVcD8sxyx+jkZJVGl9yHArlYPwKRFvCvs0oc5dBZW9RKZo9EJ497Dg==" />
+    </item>
+  <item>
       <title>Version 0.0.7</title>
       <pubDate>Tue, 14 Apr 2026 04:40:02 +0000</pubDate>
       <sparkle:version>0.0.7</sparkle:version>
