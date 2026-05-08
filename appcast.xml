@@ -6,6 +6,14 @@
     <description>Most recent updates to DrawersDock</description>
     <language>en</language>
     <item>
+      <title>Version 0.0.23</title>
+      <pubDate>Fri, 08 May 2026 21:26:11 +0000</pubDate>
+      <sparkle:version>0.0.23</sparkle:version>
+      <sparkle:shortVersionString>0.0.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <enclosure url="https://download.drawers.computer/Drawers.dmg" length="81884649" type="application/octet-stream" sparkle:edSignature="1L6Q8ODS88jbXARHL4Z6p63tz2CqJ6SXy29ng6Auvq8jRbsR1sTZX8vhL67e0rkFpgKjgClMR8kaERG8zFagAw==" />
+    </item>
+  <item>
       <title>Version 0.0.22</title>
       <pubDate>Wed, 06 May 2026 03:47:41 +0000</pubDate>
       <sparkle:version>0.0.22</sparkle:version>
